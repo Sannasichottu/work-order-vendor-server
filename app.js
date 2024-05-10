@@ -17,3 +17,6 @@ app.use('/api/v1', vendorDetail);
 app.use(errorMiddleware);
 
 module.exports = app; 
+
+
+// NODE_ENV = development
